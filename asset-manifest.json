@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.44931462.chunk.css",
+    "main.js": "/static/js/main.cc115c75.chunk.js",
+    "main.js.map": "/static/js/main.cc115c75.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.18cc4e37.js",
+    "runtime-main.js.map": "/static/js/runtime-main.18cc4e37.js.map",
+    "static/js/2.ef1465c7.chunk.js": "/static/js/2.ef1465c7.chunk.js",
+    "static/js/2.ef1465c7.chunk.js.map": "/static/js/2.ef1465c7.chunk.js.map",
+    "static/js/3.181d9b39.chunk.js": "/static/js/3.181d9b39.chunk.js",
+    "static/js/3.181d9b39.chunk.js.map": "/static/js/3.181d9b39.chunk.js.map",
+    "static/js/4.bdb3b74b.chunk.js": "/static/js/4.bdb3b74b.chunk.js",
+    "static/js/4.bdb3b74b.chunk.js.map": "/static/js/4.bdb3b74b.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.ff40d7580c53a09816360447d96edd9b.js": "/precache-manifest.ff40d7580c53a09816360447d96edd9b.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.44931462.chunk.css.map": "/static/css/main.44931462.chunk.css.map",
+    "static/js/2.ef1465c7.chunk.js.LICENSE.txt": "/static/js/2.ef1465c7.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/static/media/Raleway-SemiBold.5a25c50b.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.18cc4e37.js",
+    "static/js/2.ef1465c7.chunk.js",
+    "static/css/main.44931462.chunk.css",
+    "static/js/main.cc115c75.chunk.js"
+  ]
+}
