@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/how-random-you-are.github.io/precache-manifest.e2329585f830916fc34d6e9f1096c745.js"
+  "/how-random-you-are.github.io/precache-manifest.d41940e8fb7165b4425e74552566e416.js"
 );
 
 self.addEventListener('message', (event) => {
